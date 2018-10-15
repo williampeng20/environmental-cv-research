@@ -2,6 +2,9 @@
 
 ## Log
 
+### Objective
+To accurately identify and count charcoal objects from an image sample.
+
 ### Week 1
 Ran Canny-Edge Detection and then found contours from binary image produced from edge detection. Results were poor, only half of objects were detected, and many contours recognized negative space or reflections.
 
